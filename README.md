@@ -1,2 +1,3 @@
 # algorithm-note
-用python和C++实现的
+分别用python和C++实现的
+
